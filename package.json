@@ -1,0 +1,16 @@
+{
+  "name": "webpack5__practice",
+  "version": "1.0.0",
+  "description": "pretty much the same as other module bundlers, which bundles your files\r although some of them are fast or have slight changes like parcel, rollup, snowpack etc.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0"
+  }
+}
