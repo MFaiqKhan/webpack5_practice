@@ -1,6 +1,6 @@
 # Practicing Webpack 5
 
-### All the files contains comments for better understanding
+### All the file's contain comments for better understanding
 
 pretty much the same as other module bundlers, which bundles your files
 although some of them are fast or have slight changes like parcel, rollup, snowpack etc.
